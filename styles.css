@@ -15,9 +15,6 @@ body {
 h3{
     font-size: 24px;
 }
-p{
-    font-size: 14px;
-}
 h3, h4, p{
     color: #001d3d;
 }
@@ -28,9 +25,9 @@ h3, h4, p{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 700px;
-    height: 350px;
-    background-image: url("https://media.giphy.com/media/Q1NA7Re9PG8mT40Alt/giphy.gif");
+    width: 1000px;
+    height: 450px;
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFheHR4ZWtuOWRyOTBtd3RjbGdzN3FtcXU4OHd1N3ppb2Vlb2w1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yt5qNMYjdGMp70g3uN/giphy.gif");
     background-size: cover;
     color: #ffff;
 }
@@ -63,8 +60,8 @@ h3, h4, p{
 /*DESTINATION*/
 .destination-section{
     padding-top: 30px;
-    width: 700px;
-    height: 475px;
+    width: 1000px;
+    height: 550px;
     background: #ecf8f8;
 
 }
@@ -79,21 +76,20 @@ h3, h4, p{
     
 }
 .destination-section img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border: 1px solid #023e8a;
 }
 
 .destination-section img:hover{
     zoom: 1.25;
+    cursor: pointer;
 }
 .destination-section-top-3{
-    margin: 30px 0;
-    padding: 40px auto;
     display: flex;
     align-items: center;
-    justify-content: center;    
+    justify-content: space-around;    
 }
 #destination-section-boracay,
 #destination-section-bohol,
@@ -106,22 +102,22 @@ h3, h4, p{
 /*ABOUT*/
 .about-section{
     padding: 30px 0;
-    width: 700px;
-    height: 650px;
+    width: 1000px;
+    height: 680px;
     background: #e9edc9;
     letter-spacing: 1.25px;
 }
 .about-section p{
     padding: 15px 25px;
     letter-spacing: 1px;
-    line-height: 18px;
+    line-height: 20px;
 }
 
 #on-my-way-gif{
     background: url("images/phil.jpg");
     background-size: cover;
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 450px;
     display: flex;
     margin: 15px auto;
 }
@@ -140,12 +136,12 @@ h3, h4, p{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 700px;
-    height: 400px;
+    width: 1000px;
+    height: 450px;
 }
 .guide-section-card{
     display: flex;
-    width: 425px;
+    width: 625px;
     height: 265px;
     border-radius: 5px;
     background: #e9c46a;
