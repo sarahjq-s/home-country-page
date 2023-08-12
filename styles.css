@@ -45,10 +45,10 @@ h3, h4, p{
 }
 .hero-section h2{
     margin: 11px auto;
-    padding: 10px 5px;
+    padding: 8px 5px;
     background-image: linear-gradient(#023e8a, #0077b6, #070C17);
     width: 350px;
-    height: 42px;
+    height: 44px;
     left: 154px;
     border-radius: 10px;
     font-size: 18px;
