@@ -2,6 +2,8 @@
 
 👋Hi everyone! After completing my first Solo Project: Hometown Homepage at Scrimba, I decided to build my Home Country Homepage: Visit Philippines.
 
+Live preview [Home Country Page](https://home-country-philippines-page.netlify.app/)
+
 Requirements from [Solo Project: Hometown Homepage](https://github.com/sarahjq-s/solo-project-hometown-page#solo-project-hometown-page)
 <ul>
   <li>✅ use classes</li>
