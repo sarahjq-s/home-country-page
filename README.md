@@ -23,8 +23,7 @@ Requirements from [Solo Project: Hometown Homepage](https://github.com/sarahjq-s
 
 While working on this project, I ran into some challenges with flexbox again but this time it was easier to understand what I was doing wrong. The challenge I faced and how I overcame it:
 
-✈️ Destination section - I ran into the problem of having the images appear ellipse instead of circle. With the Hometown Project, I only needed the width but with this page I needed to put both height and width properties to get the images appear circular. Do you have other solution?
-
+✈️ ✈️ Destination section - I ran into the problem with the images looking like an ellipse instead of a circle with the border-radius property set to 50%. With  my other Project, I only needed the width but with this page I needed to put both height and width properties to get the images appear circular. Do you have other solution?
  😃 I really enjoyed working on this project because I get to share about my home country. Looking forward to learning more and being able to make a responsive website!
 
 I'd appreciate anyone who would be kind to review my code for me to learn from it and improve on my skills 🙏
